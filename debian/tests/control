@@ -1,2 +1,4 @@
 Test-Command: /bin/true
 Restrictions: build-needed
+# empty depends, to avoid building twice
+Depends:

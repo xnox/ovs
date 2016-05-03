@@ -73,6 +73,7 @@ EXTRA_DIST += \
 	debian/rules \
 	debian/rules.modules \
 	debian/ifupdown.sh \
+	debian/tests/control \
 	debian/source/format
 
 FLAKE8_PYFILES += \
